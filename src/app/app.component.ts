@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-// adasdasd
+// adasdasd adasdasd
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
