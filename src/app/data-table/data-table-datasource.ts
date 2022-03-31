@@ -3,12 +3,11 @@ import { MatPaginator, MatSort } from '@angular/material';
 import { map } from 'rxjs/operators';
 import { Observable, of as observableOf, merge } from 'rxjs';
 
-// TODO: Replace this with your own data model type
 export interface DataTableItem {
   name: string;
   id: number;
 }
-
+// asdasdasdsad
 // TODO: replace this with real data from your application
 const EXAMPLE_DATA: DataTableItem[] = [
   {id: 1, name: 'Hydrogen'},
